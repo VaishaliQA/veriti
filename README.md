@@ -35,7 +35,7 @@ _*this is for development purposes only_
 4. Make sure to import your own Stripe and MongoDB keys
 4. Run the front and back-end servers with ```npm run develop```
 
-To use this app in production, visit: https://veriti-app.herokuapp.com/
+To use this app in production, visit: https://veriti-app-ceddf62a171e.herokuapp.com/
 
 <br/>
 
